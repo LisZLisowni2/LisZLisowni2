@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on chatApp (private)<br>🌱 I’m currently learning vue, react, node.js <br>⚡ Fun fact: I am
+🔭 I’m currently working on youtube clone<br>🌱 I’m currently learning react, django <br>⚡ Fun fact: I am
 
 
 ## 🌐 Socials:
